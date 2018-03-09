@@ -1,0 +1,100 @@
+title: ryoogh96's blog
+name: ryoogh96
+email: ryoogh96@gmail.com
+description: Blog Style Website with my resume(=portfolio)
+
+baseurl: "/blog"
+url: "https://ryoogh96.github.io"
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
+project_one: "Arkanoid"
+project_one_description: Personal Game-development Project with Club Activity
+project_one_url: https://github.com/ryoogh96/Arkanoid
+project_one_icon: location_on
+
+project_two: Baekjoon
+project_two_description: Baekjoon Online Judge Problems solving
+project_two_url: https://github.com/ryoogh96/Baekjoon
+project_two_icon: photo_camera
+
+
+project_three: Third Project
+project_three_description: Describe your project!
+project_three_url: 
+project_three_icon: hotel
+
+
+project_four: Fourth Project
+project_four_description: Describe your project!
+project_four_url: 
+project_four_icon: restaurant
+
+portfolio_heading: Portfolio
+portfolio_type: cards
+
+
+syntax_highlighting: true
+# Skill icons from https://konpa.github.io/devicon/
+
+skills:
+  - name: android
+  - name: apache
+  - name: bitbucket
+  - name: c
+  - name: chrome
+  - name: cplusplus
+  - name: csharp
+  - name: css3
+  - name: dot-net
+  - name: git
+  - name: github
+  - name: gitlab
+  - name: google
+  - name: html5
+  - name: ie10
+  - name: java
+  - name: javascript
+  - name: linux
+  - name: mysql
+  - name: nodejs
+  - name: php
+  - name: python
+  - name: pycharm
+  - name: slack
+  - name: sourcetree
+  - name: trello
+  - name: twitter
+  - name: ubuntu
+  - name: vim
+  - name: visualstudio
+
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
+
+project_button: Github
+
+github: https://github.com/ryoogh96
+
+baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
+url: https://ryoogh96.github.io #the url of your site
+
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+tag_manager_id: # This looks something like GTM-XXXXXXX
+google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+
+cookie_accept_message: Thanks!
+
+syntax_highlighting: true # include the css for syntax highlighting
+
+# Build settings
+markdown: kramdown
+# theme: minima
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-minifier
