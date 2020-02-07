@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resume English ver"
-date:   2018-05-11 23:28:05 +0000
+date:   2020-02-07 17:02:00 +0000
 image: /assets/images/startup.jpg
 
 ---
