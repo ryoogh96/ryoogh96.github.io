@@ -9,7 +9,7 @@ url: "https://ryoogh96.github.io"
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "Arkanoid"
+project_one: Arkanoid
 project_one_description: Personal Game-development Project with Club Activity
 project_one_url: https://github.com/ryoogh96/Arkanoid
 project_one_icon: location_on
@@ -20,15 +20,15 @@ project_two_url: https://github.com/ryoogh96/Baekjoon
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: 
+project_three: GraphicsLabs
+project_three_description: University Course Computer Graphics Lab Materials
+project_three_url: https://github.com/ryoogh96/GraphicsLabs
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: 
+project_four: CompilerLabs
+project_four_description: University Course Compiler Lab Materials
+project_four_url: https://github.com/ryoogh96/CompilerLabs
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
