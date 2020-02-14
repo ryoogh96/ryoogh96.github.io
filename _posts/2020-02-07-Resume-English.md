@@ -33,7 +33,7 @@ Projects
 ● Backjoon Online Judge Problem Solving - Solving algorithm problems on Backjoon Online Judge (BOJ) - https://github.com/ryoogh96/Baekjoon
 ● Data-Based CNN Testing Tool Development(Undergraduate Project) - https://github.com/fenrir94/Alright
 ● PNU Chatbot Senior Spring Semeter Lab Project - https://github.com/pnu-004-team1/PNU_Chatbot
-● Auto-Driving Mini Car Using STM32 board and sonar wave sensor Junior Fall Semeter Lab Project
+● Auto-Driving Mini Car Using STM32 board and sonar wave sensor Junior Fall Semeter Lab Project - https://github.com/ryoogh96/Stm32_Auto_Driving_Car
 ● My Weather Info which runs on PhoneGap(Hybrid Web-App) Junior Spring Semeter Lab Project - https://github.com/ryoogh96/MyWeatherInfo
 ● Develop Digital Clock Module Using FPGA Board with Verilog Sophomore Fall Semester Lab Project - https://github.com/ryoogh96/DigitalClockModule
 ● Arkanoid with SFML Graphic Library - It's a simple block breaking game with one ball, controllable rectangle, and blocks - https://github.com/ryoogh96/Arkanoid

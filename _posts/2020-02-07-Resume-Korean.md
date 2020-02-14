@@ -23,17 +23,17 @@ image: /assets/images/startup.jpg
 -------------------------------------------------------------------------------------------------------------------------------------------------
 대한민국 부산					부산대학교					2015년 3월 - 2020년 2월
 ● Computer Science and Engineering 학사과정 2020년 3월
-● 학부 과정 : Python, C, C++, Java, 자료구조, 알고리즘, 운영체재, 컴퓨터 구조, 시스템 프로그래밍, 파일 프로세싱, 컴퓨터 그래픽스, 컴퓨터 네트워크, 컴파일러, 웹 프로그래밍, 데이터베이스, 기타 등등.
+● 학부 과정 : Python, C, C++, Java, 자료구조, 알고리즘, 운영체제, 컴퓨터 구조, 시스템 프로그래밍, 파일 프로세싱, 컴퓨터 그래픽스, 컴퓨터 네트워크, 컴파일러, 웹 프로그래밍, 데이터베이스, 기타 등등.
 
 기술적인 경험
 -------------------------------------------------------------------------------------------------------------------------------------------------
 프로젝트들
 ● 키오스크 자판기 관리자 앱(리액트), 키오스크 프로그램(C#, WPF)에 쓰이는 Django API 서버 개발(Using Serverless Framework to Deploy named Zappa)
 ● 웹페이지에서 쓰이는 API 서버 개발(Node.js, AWS에서 구동중)
-● Backjoon Online Judge Problem Solving - 백준 온라인 저지에서 알고리즘 문제 풀이들 - https://github.com/ryoogh96/Baekjoon
+● Backjoon Online Judge Problem Solving 백준 온라인 저지에서 알고리즘 문제 풀이들 - https://github.com/ryoogh96/Baekjoon
 ● 데이터 기반 CNN 평가 도구 개발 졸업과제 - https://github.com/fenrir94/Alright
 ● 부산대 챗봇 컴퓨터응용설계및실험 학부 4학년 1학기 프로젝트 - https://github.com/pnu-004-team1/PNU_Chatbot
-● STM32 보드와 초음파 센서를 이용한 자율주행자동차 학부 3학년 2학기 프로젝트
+● STM32 보드와 초음파 센서를 이용한 자율주행자동차 학부 3학년 2학기 프로젝트 - https://github.com/ryoogh96/Stm32_Auto_Driving_Car
 ● PhoneGap으로 구동하는 Web-App나만의 기상날씨 모바일 어플리케이션 사용자가 원하는 기상정보를 알려주는 모바일 하이브리드 어플리케이션 학부 3학년 1학기 프로젝트 - https://github.com/ryoogh96/MyWeatherInfo
 ● FPGA 보드를 이용한 디지털 시계 모듈 개발 Verilog 언어를 이용하여 개발한 학부 2학년 2학기 프로젝트 - https://github.com/ryoogh96/DigitalClockModule
 ● Arkanoid with SFML Graphic Library - 공 하나와 움직일수 있는 사각형으로 블럭들을 부수는 게임 - https://github.com/ryoogh96/Arkanoid
