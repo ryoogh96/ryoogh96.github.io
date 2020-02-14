@@ -8,15 +8,15 @@ image: /assets/images/startup.jpg
 
 INTERNSHIP
 -------------------------------------------------------------------------------------------------------------------------------------------------
-● Korea Ocean Tourism Development Co., Ltd. 2018.12.26 ~ 2019.06.21
--   Developed Node.js API Server which currently hosting on AWS
--	AWS Ec2, MySQL, CloudWatch, NodeJS, Express, Swagger, Google Docs, PG Payment, KakaoTalk AlarmTalk
--   as a Back-End Developer Provide REST API Server to Product Catalog, User Reviews, PG Payment, and Payment confirm Notification Talk
+Korea Ocean Tourism Development Co., Ltd. 2018.12.26 ~ 2019.06.21
+-   ● Developed Node.js API Server which currently hosting on AWS
+-   ● As a Back-End Developer Provide REST API Server to Product Catalog, User Reviews, PG Payment, and Payment confirm Notification Talk
+-	● AWS Ec2, MySQL, CloudWatch, NodeJS, Express, Swagger, Google Docs, PG Payment, KakaoTalk AlarmTalk
 
-● Venduster	2019.07.01 ~ 2019.08.26
--   Developed Django API Server used with KIOSK Vending Machine Admin Mobile(React) App and C# WPF Program using Zappa(Serverless Framework to Deploy)
--	AWS Serverless Lambda, DynamoDB, CloudWatch,  Toast Instance, MySQL, Object Storage, Python Django with Zappa(Serverless Framework), PynamoDB,  Postman, Swagger, Slack, Trello
--   As a Back-End Developer Provide REST API to use on React Mobile Admin App and KIOSK Windows C# WPF Program using Python Django Serverless Framework Zappa, use manage tool Swagger, Debugging with AWS CloudWatch, Testing with Postman 
+Venduster	2019.07.01 ~ 2019.08.26
+-   ● Developed Django API Server used with KIOSK Vending Machine Admin Mobile(React) App and C# WPF Program using Zappa(Serverless Framework to Deploy)
+-   ● As a Back-End Developer Provide REST API to use on React Mobile Admin App and KIOSK Windows C# WPF Program using Python Django Serverless Framework Zappa, use manage tool Swagger, Debugging with AWS CloudWatch, Testing with Postman 
+-	● AWS Serverless Lambda, DynamoDB, CloudWatch,  Toast Instance, MySQL, Object Storage, Python Django with Zappa(Serverless Framework), PynamoDB,  Postman, Swagger, Slack, Trello
 
 EDUCATION
 -------------------------------------------------------------------------------------------------------------------------------------------------

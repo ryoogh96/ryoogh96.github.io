@@ -9,14 +9,15 @@ image: /assets/images/startup.jpg
 인턴십
 -------------------------------------------------------------------------------------------------------------------------------------------------
 (주)한국해양관광개발 2018.12.26 ~ 2019.06.21
--   웹페이지에서 쓰이는 API 서버 개발(2개월)
--	AWS Ec2, MySQL, CloudWatch, NodeJS, Express, Swagger, Google Docs, PG결제, 카카오톡 알림톡
--	백엔드 역할로 제품 설명과 리뷰제공 API와 PG결제 및 결제 확인 알림톡/문자 서비스 개발
+-   ● 웹페이지에서 쓰이는 API 서버 개발
+-	● 백엔드 역할로 제품 설명과 리뷰제공 API와 PG결제 및 결제 확인 알림톡/문자 서비스 개발
+-	● AWS Ec2, MySQL, CloudWatch, NodeJS, Express, Swagger, Google Docs, PG결제, 카카오톡 알림톡
+
 
 벤더스터	2019.07.01 ~ 2019.08.26
--   키오스크 자판기 관리자 앱, 키오스크 프로그램에 쓰이는 Django API 서버 개발(3개월)
--	AWS Serverless Lambda, DynamoDB, CloudWatch,  Toast Instance, MySQL, Object Storage, Python Django with Zappa(Serverless Framework), PynamoDB,  Postman, Swagger, Slack, Trello
--	백엔드 역할로 모든 개발, 배포 도구 및 환경 구축 및 관리자 앱과 키오스크 프로그램 프론트에서 사용할 REST API들을 개발 후 Swagger로 관리, 또한 버그 발생시 AWS CloudWatch로 해당 에러 로그를 검색하고 직접 문제되는 Parameters를 Postman으로 직접 시연 후 원인 분석 및 이를 해결하여 재 배포
+-   ● 키오스크 자판기 관리자 앱, 키오스크 프로그램에 쓰이는 Django API 서버 개발
+-	● 백엔드 역할로 모든 개발, 배포 도구 및 환경 구축 및 관리자 앱과 키오스크 프로그램 프론트에서 사용할 REST API들을 개발 후 Swagger로 관리, 또한 버그 발생시 AWS CloudWatch로 해당 에러 로그를 검색하고 직접 문제되는 Parameters를 Postman으로 직접 시연 후 원인 분석 및 이를 해결하여 재 배포
+-	● AWS Serverless Lambda, DynamoDB, CloudWatch,  Toast Instance, MySQL, Object Storage, Python Django with Zappa(Serverless Framework), PynamoDB,  Postman, Swagger, Slack, Trello
 
 
 교육
